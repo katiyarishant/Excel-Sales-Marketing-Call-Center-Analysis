@@ -3,7 +3,7 @@
 ## Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard Overview](images/Dashboard_overview.png)
+![Dashboard Overview](Dashboard_overview.png)
 
 ---
 
