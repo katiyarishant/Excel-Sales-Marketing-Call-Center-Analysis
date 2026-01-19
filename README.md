@@ -1,5 +1,12 @@
 # 📞 Sales & Marketing Call Center Analysis Dashboard
 
+## Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](images/Dashboard_overview.png)
+
+---
+
 ## 📌 Project Overview
 This project analyzes call center performance using a real-world dataset of **100,000+ call records**.
 The objective is to evaluate agent performance, call outcomes, customer behavior, and reasons for call abandonment
@@ -62,14 +69,6 @@ through an interactive Excel dashboard.
 - Technical issues and long wait times are the main causes of call abandonment.
 - Some products have high call volume but low success rate.
 - Agent performance varies significantly, impacting overall success rate.
-
----
-
-## 📸 Dashboard Preview
-
-### Overall Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
-
 
 ---
 
