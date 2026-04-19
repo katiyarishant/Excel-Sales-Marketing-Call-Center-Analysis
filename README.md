@@ -1,4 +1,4 @@
-# 📞 Sales & Marketing Call Center Analysis Dashboard
+# Sales & Marketing Call Center Analysis Dashboard
 
 ## Dashboard Preview
 
@@ -7,14 +7,14 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes call center performance using a real-world dataset of **100,000+ call records**.
 The objective is to evaluate agent performance, call outcomes, customer behavior, and reasons for call abandonment
 through an interactive Excel dashboard.
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 - Total Records: 100,000+ calls
 - Data Type: Call center operational data
 - Level: Individual call-level data
@@ -31,7 +31,7 @@ through an interactive Excel dashboard.
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 - What are the success, failure, and abandonment rates of calls?
 - Which agents handle the highest number of calls?
 - Which agents have better success rates and ratings?
@@ -42,7 +42,7 @@ through an interactive Excel dashboard.
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - Microsoft Excel  
   - Pivot Tables  
   - Calculated Fields  
@@ -54,7 +54,7 @@ through an interactive Excel dashboard.
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 - Agent-wise call performance comparison
 - Success vs Failure vs Abandoned call analysis
 - Product-wise success and failure distribution
@@ -64,7 +64,7 @@ through an interactive Excel dashboard.
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - A small group of top agents handles the majority of total calls.
 - Technical issues and long wait times are the main causes of call abandonment.
 - Some products have high call volume but low success rate.
@@ -72,7 +72,7 @@ through an interactive Excel dashboard.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project demonstrates how large-scale operational data can be transformed into meaningful business insights
 using Excel dashboards, helping decision-makers improve efficiency and reduce call abandonment.
 
